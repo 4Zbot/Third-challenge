@@ -94,7 +94,7 @@ section {
 .score-reaction {
     color: hsl(0, 100%, 67%);
     background-color: hsla(0, 100%, 67%, 0.1);
-    display: flex;
+
 }
 
 .blacktext {
