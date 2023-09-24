@@ -79,22 +79,29 @@ section {
     display: flex;
     justify-content: space-between;
     padding: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     border-radius: 10px;
-
-
-
     text-align: center;
 }
 
-.h4-sum {
-    margin-bottom: 29px;
+#score-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.h4-sum {}
 
 .score-reaction {
     color: hsl(0, 100%, 67%);
     background-color: hsla(0, 100%, 67%, 0.1);
 
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .blacktext {
